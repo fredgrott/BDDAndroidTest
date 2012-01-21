@@ -14,5 +14,9 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/festasssetionsandroid.jar"/>
+	<classpathentry kind="lib" path="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/festutilandroid.jar"/>
+	<classpathentry kind="lib" path="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/hamcrest-core-1.3.0RC2.jar"/>
+	<classpathentry kind="lib" path="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/hamcrest-library-1.3.0RC2.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
