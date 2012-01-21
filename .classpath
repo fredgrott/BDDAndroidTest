@@ -5,9 +5,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/BDDAndroid"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry kind="lib" path="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/guice-3.0-no_aop.jar"/>
-	<classpathentry kind="lib" path="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/javax.inject.jar"/>
-	<classpathentry kind="lib" path="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/roboguice-2.0b3.jar"/>
 	<classpathentry kind="lib" path="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/AndroidMockGenerator.jar"/>
 	<classpathentry kind="src" path=".apt_generated">
 		<attributes>
