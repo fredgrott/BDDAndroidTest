@@ -1,0 +1,7 @@
+#Sat Jan 21 03:20:05 CST 2012
+eclipse.preferences.version=1
+org.eclipse.jdt.apt.aptEnabled=true
+org.eclipse.jdt.apt.genSrcDir=.apt_generated
+org.eclipse.jdt.apt.processorOptions/bin_dir=bin/classes
+org.eclipse.jdt.apt.processorOptions/logfile=androidmockaptlog
+org.eclipse.jdt.apt.reconcileEnabled=true

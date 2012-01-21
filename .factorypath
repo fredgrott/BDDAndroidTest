@@ -1,0 +1,7 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.modisco.infra.discovery.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="/home/fredgrott/git/GITHUB/BDDAndroidTest/libs/AndroidMockGenerator.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="ANDROID_RUNTIMEv4" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="APP_UNDER_TEST_BDDAndroid" enabled="true" runInBatchMode="false"/>
+</factorypath>
